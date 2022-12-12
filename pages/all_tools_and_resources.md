@@ -12,6 +12,3 @@ It is recommended to add:
 - your training materials and events into the training registry [TeSS](https://tess.elixir-europe.org/about/registering)
 - your standards, databases and policies in [FAIRsharing](https://fairsharing.org/new) registry
 - your software tools, databases and services for bioinformatics and the life sciences in [bio.tools](https://bio.tools) registry
-
-
-{% include resource-table-all.html %}

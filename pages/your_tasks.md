@@ -9,6 +9,3 @@ In this section, information is organised around regular research data managemen
 - Links to tool assemblies implemented by others to address specific data management challenges.
 - Links to a Data Stewardship Wizard for your DMP and to step-by-step instructions to make your data FAIR.
 - A summary table of tools and resources relevant for the specific task and recommended by communities.
-
-
-{% include section-navigation-tiles.html type="your_tasks" search=true %}
