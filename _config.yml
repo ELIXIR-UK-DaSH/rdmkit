@@ -118,11 +118,6 @@ defaults:
       datatable: true
   -
     scope:
-      path: "pages/contribute"
-    values:
-      sidebar: contribute
-  -
-    scope:
       path: "pages/about"
     values:
       sidebar: about
