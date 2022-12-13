@@ -118,6 +118,6 @@ for subdir, dirs, files in os.walk(rootdir):
                 print(f"\tDumping content in markdown file {os.path.join(subdir, file_name)}")
                 with open(os.path.join(subdir, file_name), "w") as f:
                     contents = "".join(contents)
-                    #f.write(contents)
+                    f.write(contents)
                 print(f"\tDone")
 print(f"DSW links successfully added to the markdown pages")

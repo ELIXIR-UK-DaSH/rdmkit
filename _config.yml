@@ -97,7 +97,7 @@ defaults:
     scope:
       path: "pages/your_role"
     values:
-      type: your_role
+      type: "pages"
   -
     scope:
       path: "pages/tool_assembly"
