@@ -10,6 +10,7 @@ subitems:
   - title: Your role
     description: Identify your role in research data management, find data management resources relevant for you, and information to help you progress in your career path.
     url: /your_role
+    image_url: /assets/img/section-icons/address-card-light.svg
     subitems:
       - title: Researcher
         url: /researcher

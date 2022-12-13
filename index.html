@@ -138,12 +138,8 @@ layout: none
                 </div>
                 <div class="col">
                     <div class="bg-light d-flex align-items-center rounded p-3 text-center h-100">
-                        {%- assign content_pages = site.pages | where: "search_exclude", "false" %}
                         <div class="row g-1 flex-grow-1">
                             <div class="col-7">
-                                <span class="count-number text-primary">{{content_pages.size}}</span>
-                                <p><b>Pages</b><br>
-                                    Helping you with data management</p>
                             </div>
                             <div class="col-5 my-auto">
                                 <img class="h-icon-4" src="{{ '/assets/img/section-icons/file-lines-light.svg' | relative_url }}" alt="Contributors icon">
