@@ -5,9 +5,9 @@ contributors: [Mijke Jetten, Federico Bianchini, Gregoire Rossier, Erik Hjerde, 
 page_id: researcher
 acccess_to_training_resources:
   training:
-    - name: Training in TeSS
-      registry: TeSS
-      url: https://tess.elixir-europe.org/search?q=Data%20Management%20Planning#materials
+  - name: Training in TeSS
+    registry: TeSS
+    url: https://tess.elixir-europe.org/search?q=Data%20Management%20Planning#materials
 ---
 
 ### Applies to
