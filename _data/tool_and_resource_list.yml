@@ -2922,3 +2922,7 @@
   - metadata
   - data_manager
   url: https://www.ebi.ac.uk/spot/zooma/
+- description: Find possible ontology mappings for free text terms in the ZOOMA repository.
+  name: Training in TeSS
+  registry: TeSS
+  url: https://tess.elixir-europe.org/search?q=Data%20Management%20Planning#materials

@@ -163,3 +163,7 @@ subitems:
     description: Browse all training resources mentioned in RDMkit pages.
     url: /all_training_resources
     image_url: /assets/img/section-icons/graduation-cap-light.svg
+  - title: Training in TeSS
+    registry: TeSS
+    url: https://tess.elixir-europe.org/search?q=Data%20Management%20Planning#materials
+  
