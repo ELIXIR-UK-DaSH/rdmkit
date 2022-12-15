@@ -3,7 +3,7 @@ title: Researcher
 description: Researchers generating and reusing data.
 contributors: [Mijke Jetten, Federico Bianchini, Gregoire Rossier, Erik Hjerde, Siiri Fuchs, Minna Ahokas, Priit Adler, Alexander Botzki, Robert Andrews, Celia van Gelder, Daniel Wibberg, Graham Hughes, Marko Vidak, Pedro Fernandes, Pinar Alper, Victoria Dominguez D. Angel, Wolmar Nyberg Åkerström, Alexia Cardona, Munazah Andrabi]
 page_id: researcher
-acccess_to_training_resources:
+ acccess_to_training_resources: 
   training: [data_analysis, dmp, data_organisation, data_publication, data_quality, existing_data, metadata, identifiers, data_provenance]
 ---
 
