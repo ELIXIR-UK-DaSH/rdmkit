@@ -9,7 +9,7 @@ training:
     url: https://tess.elixir-europe.org/search?q=Data%20Management%20Planning#materials
 ---
 
-## Applies to
+### Applies to
 PhD candidates, research grant applicants, project managers, group leaders, PIs
 
 ### Scenario
