@@ -71,7 +71,6 @@
   name: Argos
   related_pages:
   - dmp
-  - researcher
   - data_manager
   url: https://argos.openaire.eu/splash/
 - description: A repository of array based genomics data
@@ -91,7 +90,6 @@
   related_pages:
   - it_support
   - policy_officer
-  - researcher
   - data_analysis
   url: https://arvados.org
 - description: With fast file transfer and streaming solutions built on the award-winning
@@ -118,7 +116,6 @@
     tess: Atlas
   related_pages:
   - data_manager
-  - researcher
   - transmed
   url: https://github.com/OHDSI/Atlas/wiki
 - description: Store and publish your research data. Can be used to bridge between
@@ -168,7 +165,6 @@
     fairsharing: 6fba91
     tess: Beacon
   related_pages:
-  - researcher
   - data_manager
   - it_support
   - human_data
@@ -277,7 +273,6 @@
     biotools: bionda
   related_pages:
   - storage
-  - researcher
   - human_data
   - proteomics
   url: http://bionda.mpc.ruhr-uni-bochum.de/start.php
@@ -339,7 +334,6 @@
     biotools: bmrb
   related_pages:
   - idp
-  - researcher
   url: https://bmrb.io/
 - description: BoostDM is a method to score all possible point mutations (single base
     substitutions) in cancer genes for their potential to be involved in tumorigenesis.
@@ -383,7 +377,6 @@
   related_pages:
   - data_organisation
   - data_manager
-  - researcher
   url: https://www.bulkrenameutility.co.uk/
 - description: A highly useful and flexible tool for calibration of targeted MS?based
     measurements. CalibraCurve enables an automated batch-mode determination of dynamic
@@ -470,7 +463,6 @@
   related_pages:
   - metadata
   - machine_actionability
-  - researcher
   - data_manager
   url: https://metadatacenter.org
 - description: A version management tool for modifying strains
@@ -509,7 +501,6 @@
     tess: ChEMBL
   related_pages:
   - data_analysis
-  - researcher
   - toxicology_data
   url: https://www.ebi.ac.uk/chembl/
 - description: ChIPSummitDB is a database of transcription factor binding sites and
@@ -524,7 +515,6 @@
   name: Choose a license
   related_pages:
   - licensing
-  - researcher
   - data_manager
   - policy_officer
   url: https://choosealicense.com
@@ -552,7 +542,6 @@
     tess: Common Workflow Language (CWL)
   related_pages:
   - it_support
-  - researcher
   - data_analysis
   url: https://www.commonwl.org
 - description: The CompTox Chemicals Dashboard provides toxicological information
@@ -605,7 +594,6 @@
     fairsharing-coll: bsg-d001247
   related_pages:
   - metadata
-  - researcher
   - plants
   - machine_actionability
   - plant_pheno_assembly
@@ -620,14 +608,12 @@
   name: Create a Codebook
   related_pages:
   - metadata
-  - researcher
   - data_manager
   url: https://ddialliance.org/training/getting-started-new-content/create-a-codebook
 - description: It helps you choose the right Creative Commons license for your needs.
   name: Creative Commons License Chooser
   related_pages:
   - licensing
-  - researcher
   - data_manager
   - policy_officer
   url: https://creativecommons.org/choose/
@@ -638,7 +624,6 @@
     fairsharing: wgfrmg
     tess: Crop Ontology
   related_pages:
-  - researcher
   - data_manager
   - it_support
   - plants
@@ -707,7 +692,6 @@
   name: Data Curation Centre Metadata list
   related_pages:
   - metadata
-  - researcher
   - data_manager
   url: https://www.dcc.ac.uk/guidance/standards/metadata/list
 - description: Dataverse for life sciences and agronomic related data
@@ -717,7 +701,6 @@
   related_pages:
   - plants
   - plant_geno_assembly
-  - researcher
   - data_manager
   - plant_pheno_assembly
   url: https://data.inrae.fr/
@@ -729,7 +712,6 @@
     tess: Data Stewardship Wizard
   related_pages:
   - dmp
-  - researcher
   - data_manager
   - it_support
   - nels
@@ -744,7 +726,6 @@
     tess: Data Use Ontology
   related_pages:
   - data_manager
-  - researcher
   - human_data
   url: https://github.com/EBISPOT/DUO
 - description: Overview of typical licenses used for data resources
@@ -767,7 +748,6 @@
     tess: DATAVERSE
   related_pages:
   - storage
-  - researcher
   - data_manager
   - it_support
   - ifb
@@ -789,7 +769,6 @@
     tess: dbGAP
   related_pages:
   - data_publication
-  - researcher
   - it_support
   - human_data
   url: https://www.ncbi.nlm.nih.gov/gap/
@@ -802,7 +781,6 @@
   related_pages:
   - data_analysis
   - human_data
-  - researcher
   - toxicology_data
   url: https://www.disgenet.org/
 - description: A database of intrinsically disordered proteins
@@ -813,13 +791,11 @@
     tess: DisProt
   related_pages:
   - idp
-  - researcher
   url: https://disprot.org/
 - description: Questionnaire, which generates a pre-filled a DMP
   name: DMP Canvas Generator
   related_pages:
   - dmp
-  - researcher
   - data_manager
   url: https://dmp.vital-it.ch
 - description: Semi-automatically generated, searchable catalogue of resources that
@@ -827,21 +803,18 @@
   name: DMPlanner
   related_pages:
   - dmp
-  - researcher
   - data_manager
   url: https://dmplanner.athenarc.gr/
 - description: DMP Roadmap is a Data Management Planning tool.
   name: DMPRoadmap
   related_pages:
   - dmp
-  - researcher
   - data_manager
   url: https://github.com/DMPRoadmap/roadmap
 - description: Build your Data Management Plan
   name: DMPTool
   related_pages:
   - dmp
-  - researcher
   - data_manager
   url: https://dmptool.org
 - description: A database of DNA sequences
@@ -909,7 +882,6 @@
   related_pages:
   - plants
   - plant_geno_assembly
-  - researcher
   - data_manager
   - it_support
   - data_publication
@@ -927,7 +899,6 @@
   name: ECPGR
   related_pages:
   - plants
-  - researcher
   - data_manager
   url: https://www.ecpgr.cgiar.org/
 - description: 'Endocrine Disruptor Knowledge Base is a platform designed to foster
@@ -954,7 +925,6 @@
     fairsharing-coll: bsg-c000039
   related_pages:
   - data_publication
-  - researcher
   - data_manager
   - it_support
   - covid-19
@@ -977,14 +947,12 @@
   related_pages:
   - metadata
   - data_manager
-  - researcher
   url: https://www.ebi.ac.uk/ols/index
 - description: EMBL-EBI's wizard for finding the right EMBL-EBI repository for your
     data.
   name: EMBL-EBI's data submission wizard
   related_pages:
   - data_publication
-  - researcher
   - data_manager
   url: https://www.ebi.ac.uk/submission/
 - description: Electron Microscopy Public Image Archive is a public resource for raw,
@@ -1012,7 +980,6 @@
   related_pages:
   - it_support
   - data_manager
-  - researcher
   - data_brokering
   url: https://github.com/usegalaxy-eu/ena-upload-cli
 - description: Genome browser for vertebrate genomes that supports research in comparative
@@ -1062,7 +1029,6 @@
   name: EUDAT licence selector wizard
   related_pages:
   - licensing
-  - researcher
   - data_manager
   - policy_officer
   url: https://ufal.github.io/public-license-selector/
@@ -1087,7 +1053,6 @@
     biotools: eurisco
   related_pages:
   - plants
-  - researcher
   - data_manager
   url: https://eurisco.ipk-gatersleben.de
 - description: Europe PMC is a repository, providing access to worldwide life sciences
@@ -1098,7 +1063,6 @@
     fairsharing: cmw6mm
     tess: Europe PMC
   related_pages:
-  - researcher
   url: https://europepmc.org/
 - description: A programme aiming to create an effective rare diseases research ecosystem
     for progress, innovation and for the benefit of everyone with a rare disease.
@@ -1195,7 +1159,6 @@
   registry:
     biotools: faidare
   related_pages:
-  - researcher
   - data_manager
   - plants
   - ifb
@@ -1233,7 +1196,6 @@
   related_pages:
   - dm_coordination
   - dmp
-  - researcher
   - data_manager
   url: https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/
 - description: The FAIR wizard utilizes FAIRification resources developed by the FAIRplus
@@ -1275,7 +1237,6 @@
     fairsharing: nnvcr9
   related_pages:
   - storage
-  - researcher
   - nels
   - metadata
   - micro_biotech
@@ -1300,7 +1261,6 @@
   - data_publication
   - policy_officer
   - data_manager
-  - researcher
   - micro_biotech
   - existing_data
   url: https://fairsharing.org/
@@ -1327,7 +1287,6 @@
   related_pages:
   - dm_coordination
   - dmp
-  - researcher
   - data_manager
   url: https://fip-wizard.readthedocs.io/en/latest/
 - description: FreeIPA is an integrated Identity and Authentication solution for Linux/UNIX
@@ -1381,7 +1340,6 @@
   - nels
   - marine_assembly
   - data_analysis
-  - researcher
   - it_support
   - ifb
   - galaxy
@@ -1415,7 +1373,6 @@
     biotools: geneid
   related_pages:
   - data_analysis
-  - researcher
   url: https://genome.crg.cat/software/geneid/index.html
 - description: GHS (Globally Harmonized System of Classification and Labelling of
     Chemicals) classification was developed by the United Nations in an attempt to
@@ -1515,7 +1472,6 @@
   related_pages:
   - metadata
   - identifiers
-  - researcher
   - data_manager
   url: https://datamanagement.hms.harvard.edu/analyze/electronic-lab-notebooks
 - description: Haz-Map is an occupational health database that makes available information
@@ -1530,7 +1486,6 @@
   name: How to License Research Data - DCC
   related_pages:
   - licensing
-  - researcher
   - data_manager
   - policy_officer
   url: https://www.dcc.ac.uk/guidance/how-guides/license-research-data
@@ -1555,7 +1510,6 @@
   related_pages:
   - data_organisation
   - data_manager
-  - researcher
   - human_data
   - data_analysis
   url: https://www.humanmine.org/
@@ -1755,7 +1709,6 @@
   related_pages:
   - metadata
   - data_manager
-  - researcher
   url: https://lov.linkeddata.es/dataset/lov/
 - description: A database of prokaryote specific biodiversity information
   name: List of Prokaryotic names with Standing in Nomenclature (LPSN)
@@ -1768,7 +1721,6 @@
     biotools: lumi
   related_pages:
   - data_analysis
-  - researcher
   - it_support
   - csc
   url: https://www.lumi-supercomputer.eu/
@@ -1840,7 +1792,6 @@
   name: MIADE
   related_pages:
   - metadata
-  - researcher
   - data_manager
   - idp
   url: https://www.psidev.info/intrinsically-disordered-proteins-workgroup
@@ -1851,7 +1802,6 @@
     tess: MIAPPE
   related_pages:
   - metadata
-  - researcher
   - data_manager
   - plants
   - plant_geno_assembly
@@ -1876,7 +1826,6 @@
     fairsharing: va1hck
   related_pages:
   - metadata
-  - researcher
   - data_manager
   - marine
   - micro_biotech
@@ -1896,7 +1845,6 @@
     tess: MIxS
   related_pages:
   - metadata
-  - researcher
   - data_manager
   - marine
   - plant_geno_assembly
@@ -1909,7 +1857,6 @@
     tess: MobiDB
   related_pages:
   - idp
-  - researcher
   url: https://mobidb.org/
 - description: Database of Protein Molecular Dynamics simulations representing different
     structural clusters of the PDB
@@ -1977,7 +1924,6 @@
     \ Inc. Billerica, MA) file format to DICOM standard"
   name: MRI2DICOM
   related_pages:
-  - researcher
   - data_manager
   - xnat-pic
   url: https://github.com/szullino/XNAT-PIC
@@ -1988,7 +1934,6 @@
     fairsharing: hn155r
   related_pages:
   - metadata
-  - researcher
   - it_support
   - policy_officer
   - plants
@@ -2068,7 +2013,6 @@
   registry:
     biotools: ohdsi
   related_pages:
-  - researcher
   - data_manager
   - data_analysis
   - storage
@@ -2113,13 +2057,11 @@
   related_pages:
   - metadata
   - data_manager
-  - researcher
   url: http://www.ontobee.org
 - description: OntoMaton facilitates ontology search and tagging functionalities within
     Google Spreadsheets.
   name: ONTOMATON
   related_pages:
-  - researcher
   - data_manager
   - it_support
   - metadata
@@ -2130,7 +2072,6 @@
   name: Open Definition Conformant Licenses
   related_pages:
   - licensing
-  - researcher
   - data_manager
   - policy_officer
   url: https://opendefinition.org/licenses/
@@ -2192,7 +2133,6 @@
     tess: OSF
   related_pages:
   - storage
-  - researcher
   - data_manager
   url: https://osf.io
 - description: One Touch Pipeline (OTP) is a data management platform for running
@@ -2222,7 +2162,6 @@
     biotools: paa
   related_pages:
   - data_analysis
-  - researcher
   - human_data
   - proteomics
   url: https://bioconductor.org/packages/PAA/
@@ -2234,7 +2173,6 @@
   related_pages:
   - data_publication
   - metadata
-  - researcher
   - data_manager
   url: https://www.pangaea.de/
 - description: The Protein Circular Dichroism Data Bank
@@ -2243,7 +2181,6 @@
     biotools: pcddb
   related_pages:
   - idp
-  - researcher
   url: https://pcddb.cryst.bbk.ac.uk/
 - description: The Protein Data Bank (PDB)
   name: PDB
@@ -2251,7 +2188,6 @@
     biotools: pdb
     tess: PDB
   related_pages:
-  - researcher
   - idp
   - struct_bioinfo
   url: https://www.wwpdb.org/
@@ -2310,7 +2246,6 @@
     biotools: pia
   related_pages:
   - data_analysis
-  - researcher
   - proteomics
   url: https://github.com/mpc-bioinformatics/pia
 - description: A data management solution for intra-institutional organization and
@@ -2322,7 +2257,6 @@
   related_pages:
   - plants
   - micro_biotech
-  - researcher
   - data_manager
   - data_organisation
   - metadata
@@ -2337,7 +2271,6 @@
   related_pages:
   - plants
   - plant_geno_assembly
-  - researcher
   url: https://bioinformatics.psb.ugent.be/plaza/
 - description: Platform for the study of the impact of pathological mutations in protein
     stuctures.
@@ -2395,7 +2328,6 @@
   name: R Markdown
   related_pages:
   - data_analysis
-  - researcher
   url: https://rmarkdown.rstudio.com
 - description: The RD-Connect GPAP is an online tool for diagnosis and gene discovery
     in rare disease research.
@@ -2403,14 +2335,12 @@
   registry:
     tess: RD-Connect Genome Phenome Analysis Platform
   related_pages:
-  - researcher
   - human_data
   url: https://rd-connect.eu/what-we-do/omics/gpap/
 - description: Directory of standard metadata, divided into different research areas
   name: RDA Standards
   related_pages:
   - metadata
-  - researcher
   - data_manager
   url: https://rd-alliance.github.io/metadata-directory/standards/
 - description: Registry of Research Data Repositories
@@ -2477,7 +2407,6 @@
   related_pages:
   - data_organisation
   - data_manager
-  - researcher
   url: https://renamer.com/
 - description: Repository Finder can help you find an appropriate repository to deposit
     your research data. The tool is hosted by DataCite and queries the re3data registry
@@ -2485,7 +2414,6 @@
   name: Repository Finder
   related_pages:
   - data_publication
-  - researcher
   - data_manager
   url: https://repositoryfinder.datacite.org
 - description: Supports the systematic planning, organisation and implementation of
@@ -2493,7 +2421,6 @@
   name: Research Data Management Organiser
   related_pages:
   - dmp
-  - researcher
   - data_manager
   - it_support
   url: https://rdmorganiser.github.io/en
@@ -2510,7 +2437,6 @@
   name: Research Management Plan
   related_pages:
   - dmp
-  - researcher
   - data_manager
   url: https://researcheracademy.elsevier.com/research-preparation/research-data-management/creating-good-research-data-management-plan
 - description: RO-Crate is a lightweight approach to packaging research data with
@@ -2525,7 +2451,6 @@
   - storage
   - data_organisation
   - data_manager
-  - researcher
   - micro_biotech
   - machine_actionability
   - data_provenance
@@ -2545,7 +2470,6 @@
   registry:
     biotools: rightfield
   related_pages:
-  - researcher
   - metadata
   - data_manager
   - micro_biotech
@@ -2560,7 +2484,6 @@
   related_pages:
   - data_analysis
   - it_support
-  - researcher
   url: https://rstudio.com
 - description: Rucio - Scientific Data Management
   name: Rucio
@@ -2590,7 +2513,6 @@
   name: SASBDB
   related_pages:
   - idp
-  - researcher
   url: https://www.sasbdb.org/
 - description: A standard library of visual glyphs used to represent SBOL designs
     and interactions.
@@ -2619,7 +2541,6 @@
   related_pages:
   - metadata
   - data_manager
-  - researcher
   url: https://schemapedia.com
 - description: ScienceMesh - frictionless scientific collaboration and access to research
     services
@@ -2634,7 +2555,6 @@
   name: Scientific Data's Recommended Repositories
   related_pages:
   - data_publication
-  - researcher
   - data_manager
   - it_support
   url: https://www.nature.com/sdata/policies/repositories
@@ -2654,7 +2574,6 @@
     integration, data analysis and visualization
   name: semares
   related_pages:
-  - researcher
   - data_manager
   - metadata
   - data_analysis
@@ -2676,7 +2595,6 @@
 - description: Structure integration with function, taxonomy and sequence
   name: SIFTS
   related_pages:
-  - researcher
   - idp
   url: https://www.ebi.ac.uk/pdbe/docs/sifts/
 - description: SILVA provides comprehensive, quality checked and regularly updated
@@ -2781,7 +2699,6 @@
   name: Talend
   related_pages:
   - data_manager
-  - researcher
   - transmed
   url: https://www.talend.com/
 - description: A toxicogenomics database that stores gene expression data and biochemistry,
@@ -2820,7 +2737,6 @@
     fairsharing: 9aa0zp
   related_pages:
   - metadata
-  - researcher
   - it_support
   - policy_officer
   - human_data
@@ -2833,7 +2749,6 @@
   related_pages:
   - metadata
   - data_manager
-  - researcher
   url: http://obofoundry.org
 - description: The Toxicology in the 21st Century program, or Tox21, is a unique collaboration
     between several federal agencies to develop new ways to rapidly test whether substances
@@ -2866,7 +2781,6 @@
   registry:
     biotools: transmart
   related_pages:
-  - researcher
   - data_manager
   - data_analysis
   - storage
@@ -2891,7 +2805,6 @@
     biotools: txg-mapr
   related_pages:
   - data_analysis
-  - researcher
   - toxicology_data
   url: https://txg-mapr.eu/
 - description: The Unified Medical Language System (UMLS) is a set of tools that establishes
@@ -2921,7 +2834,6 @@
     tess: UniProt
   related_pages:
   - metadata
-  - researcher
   - idp
   - micro_biotech
   - proteomics
@@ -2932,7 +2844,6 @@
   related_pages:
   - metadata
   - identifiers
-  - researcher
   - data_manager
   url: https://www.data.cam.ac.uk/data-management-guide/electronic-research-notebooks/electronic-research-notebook-products
 - description: A JavaScript library for the visualisation of SBOL.
@@ -2947,7 +2858,6 @@
   name: Wellcome Open Research - Data Guidelines
   related_pages:
   - data_publication
-  - researcher
   - data_manager
   url: https://wellcomeopenresearch.org/for-authors/data-guidelines
 - description: WinSCP is a popular SFTP client and FTP client for Microsoft Windows!
@@ -2967,13 +2877,11 @@
   related_pages:
   - data_publication
   - data_manager
-  - researcher
   url: https://workflowhub.eu
 - description: Open source imaging informatics platform. It facilitates common management,
     productivity, and quality assurance tasks for imaging and associated data.
   name: XNAT
   related_pages:
-  - researcher
   - data_analysis
   - transmed
   - xnat-pic
@@ -2983,7 +2891,6 @@
     XNAT
   name: XNAT-PIC Pipelines
   related_pages:
-  - researcher
   - data_manager
   - data_analysis
   - xnat-pic
@@ -2991,7 +2898,6 @@
 - description: Import tool for multimodal DICOM image datasets to XNAT
   name: XNAT-PIC Uploader
   related_pages:
-  - researcher
   - data_manager
   - xnat-pic
   url: https://github.com/szullino/XNAT-PIC
@@ -3015,5 +2921,4 @@
   related_pages:
   - metadata
   - data_manager
-  - researcher
   url: https://www.ebi.ac.uk/spot/zooma/
