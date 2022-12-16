@@ -31,9 +31,9 @@ I know the types and the approximate amount of data I will generate, but I have 
 
 ## Acccess to training resources
 
-```
+---
 training:
   - name: Training in TeSS
     registry: TeSS
     url: https://tess.elixir-europe.org/search?q=Data%20Management%20Planning#materials
-```
+---
