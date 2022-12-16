@@ -38,5 +38,6 @@ I know the types and the approximate amount of data I will generate, but I have 
 
 
 ## Acccess to training resources
+
 <br>
 {% include section-navigation-tiles-simple.html type="national_resources" %}
