@@ -36,8 +36,3 @@ I know the types and the approximate amount of data I will generate, but I have 
 |-------|--------|---------|
 | [Training in TeSS](https://tess.elixir-europe.org/search?q=Data%20Management%20Planning#materials) | TeSS | Hi |
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
