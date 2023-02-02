@@ -1,5 +1,5 @@
 ---
-title: Compliance monitoring & measurement
+title: Name of collection (X number of videos embedded)
 contributors: [Christophe Trefois, Wei Gu, Pinar Alper, Markus Englund, Vera Ortseifen]
 description: Measure compliance to data management regulations and standards.
 page_id: compliance
