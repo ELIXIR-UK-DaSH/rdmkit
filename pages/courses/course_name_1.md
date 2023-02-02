@@ -36,4 +36,3 @@ By knowing their capabilities institutions can spot areas of improvement and dir
 
 https://user-images.githubusercontent.com/56037954/216388822-439a623b-c9ba-4e26-9cd5-bf4f16239e5b.mp4
 
-https://www.youtube.com/watch?v=aRHNHk07t3Q&t=2s&ab_channel=ELIXIR-UK
