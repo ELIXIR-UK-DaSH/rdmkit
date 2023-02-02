@@ -1,5 +1,5 @@
 ---
-title: Name of collection (X number of videos embedded)
+title: Name of course (with links to Carpentries/GTN)
 contributors: [Flora D'Anna, Daniel Faria]
 description: How to write a Data Management Plan (DMP).
 page_id: dmp
