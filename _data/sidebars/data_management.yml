@@ -1,12 +1,6 @@
 title: Data management
 title_url: /index
 subitems:
-  - title: Data life cycle
-    description: Start here to get an overview of research data management based on stages in the data life cycle.
-    url: /data_life_cycle
-    subitems:
-      - RDM: True
-    image_url: /assets/img/section-icons/arrows-spin-light.svg
   - title: Your role
     description: Identify your role in research data management, find data management resources relevant for you, and information to help you progress in your career path.
     url: /your_role
