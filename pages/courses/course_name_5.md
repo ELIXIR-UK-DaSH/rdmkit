@@ -1,5 +1,5 @@
 ---
-title: Data organisation
+title: Name of course (with links to Carpentries/GTN)
 contributors: [Siiri Fuchs, Minna Ahokas, Yvonne Kallberg]
 description: Best practices to name and organise research data.
 page_id: data_organisation
