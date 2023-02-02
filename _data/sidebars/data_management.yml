@@ -14,6 +14,8 @@ subitems:
         url: /data_steward_research
       - title: "Data Steward: infrastructure"
         url: /data_steward_infrastructure
+      - title: "Data Steward: infrastructure"
+        url: /data_steward_infrastructure        
   - title: Your domain
     description: Learn about data management tasks that affect your domain or research community, and the solutions adopted to address them.
     url: /your_domain
@@ -29,58 +31,3 @@ subitems:
         url: /human_data
       - title: Intrinsically disordered proteins
         url: /intrinsically_disordered_proteins
-      - title: Marine metagenomics
-        url: /marine_metagenomics
-      - title: Microbial biotechnology
-        url: /microbial_biotechnology
-      - title: Plant sciences
-        url: /plant_sciences
-      - title: Proteomics
-        url: /proteomics
-      - title: Rare disease data
-        url: /rare_disease_data
-      - title: Structural bioinformatics
-        url: /structural_bioinformatics
-      - title: Toxicology data
-        url: /toxicology_data
-  - title: Your tasks
-    description: Find guidelines and solutions for tackling common data management tasks.
-    url: /your_tasks
-    image_url: /assets/img/section-icons/list-check-light.svg
-    subitems:
-      - title: Compliance monitoring
-        url: /compliance_monitoring
-      - title: Data analysis
-        url: /data_analysis
-      - title: Data brokering
-        url: /data_brokering
-      - title: Data management coordination
-        url: /dm_coordination
-      - title: Data management plan
-        url: /data_management_plan
-      - title: Data organisation
-        url: /data_organisation
-      - title: Data protection
-        url: /data_protection
-      - title: Data provenance
-        url: /data_provenance
-      - title: Data publication
-        url: /data_publication
-      - title: Data quality
-        url: /data_quality
-      - title: Data storage
-        url: /storage
-      - title: Data transfer
-        url: /data_transfer
-      - title: Documentation and metadata
-        url: /metadata_management
-      - title: Existing data
-        url: /existing_data
-      - title: Identifiers
-        url: /identifiers
-      - title: Licensing
-        url: /licensing
-      - title: Machine actionability
-        url: /machine_actionability
-      - title: Sensitive data
-        url: /sensitive_data
