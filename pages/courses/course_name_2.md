@@ -1,5 +1,5 @@
 ---
-title: Name of collection (X number of videos embedded)
+title: Name of course (with links to Carpentries/GTN)
 contributors: [Olivier Collin, Stian Soiland-Reyes, Michael R. Crusoe]
 description: How to make data analysis FAIR.
 page_id: data_analysis
