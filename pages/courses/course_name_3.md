@@ -1,5 +1,5 @@
 ---
-title: Name of collection (X number of videos embedded)
+title: Name of course (with links to Carpentries/GTN)
 contributors: [Aitana Neves, Parul Tewatia, Wolmar Nyberg Åkerström, Carla Cummins, Nils Peder Willassen, Nazeefa Fatima]
 description: Information on brokering data to data repositories on behalf of data producers.
 page_id: data_brokering
