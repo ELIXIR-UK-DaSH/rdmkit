@@ -33,6 +33,6 @@ By knowing their capabilities institutions can spot areas of improvement and dir
 
 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4NxoWK0uAmk/0.jpg)](https://www.youtube.com/watch?v=4NxoWK0uAmk)
 
-https://user-images.githubusercontent.com/56037954/216388822-439a623b-c9ba-4e26-9cd5-bf4f16239e5b.mp4
 
