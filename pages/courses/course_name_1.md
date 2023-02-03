@@ -3,6 +3,7 @@ title: Name of course (with links to Carpentries/GTN)
 contributors: [Christophe Trefois, Wei Gu, Pinar Alper, Markus Englund, Vera Ortseifen]
 description: Measure compliance to data management regulations and standards.
 page_id: compliance
+toc: false
 ---
 
 # How can you measure and document data management capabilities?
