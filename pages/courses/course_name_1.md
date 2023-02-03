@@ -36,4 +36,4 @@ By knowing their capabilities institutions can spot areas of improvement and dir
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4NxoWK0uAmk/0.jpg)](https://www.youtube.com/watch?v=4NxoWK0uAmk)
 
 
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=4NxoWK0uAmk&t=2s&ab_channel=ELIXIR-UK)](https://www.youtube.com/watch?v=4NxoWK0uAmk&t=2s&ab_channel=ELIXIR-UK)
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=4NxoWK0uAmk-UK)](https://www.youtube.com/watch?v=4NxoWK0uAmk-UK)
