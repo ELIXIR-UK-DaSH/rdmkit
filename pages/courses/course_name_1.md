@@ -38,7 +38,7 @@ By knowing their capabilities institutions can spot areas of improvement and dir
 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=4NxoWK0uAmk-UK)](https://www.youtube.com/watch?v=4NxoWK0uAmk-UK)
 
-[![Everything Is AWESOME](https://user-images.githubusercontent.com/56037954/216629396-12ab03b5-a1a1-4ebd-8ce2-a9d5a6c0ae99.mp4)
+[![Everything Is AWESOME](https://user-images.githubusercontent.com/56037954/216629396-12ab03b5-a1a1-4ebd-8ce2-a9d5a6c0ae99.mp4)]
 
 
 
