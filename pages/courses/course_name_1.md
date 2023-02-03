@@ -11,7 +11,7 @@ page_id: compliance
 
 [![RDMbites | FASTQ format](https://img.youtube.com/vi/tO2H3zuBouw/0.jpg)](https://www.youtube.com/watch?v=tO2H3zuBouw)
 
-{% include youtube.html id=tO2H3zuBouw %}
+{% include youtube.html id="tO2H3zuBouw" %}
 
 ### RDMbites | FASTQ files in colorspace
 
