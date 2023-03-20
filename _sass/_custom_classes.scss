@@ -36,7 +36,7 @@ li ul .sidebar_rdm_sub {
 }
 
 .sidebar-title {
-    border-bottom: 0.2rem solid $primary;
+    border-bottom: 0.2rem solid $blue;
     font-weight: bold;
     padding-bottom: $input-btn-padding-y - 0.2rem;
 }
@@ -136,7 +136,7 @@ section#search-section {
 .navbar-nav .nav-item > a {
     white-space: nowrap;
     &.active {
-        background-color: $primary;
+        background-color: $blue;
         border-radius: $border-radius;
     }
 }

@@ -1,26 +1,27 @@
 
 /*-----General styling-----*/
-$font-family-theme: "Exo 2", sans-serif;
+$font-family-theme: "Lato", sans-serif;
 
 /*-----Top navigation-----*/
-$topnav-bg: $dark;
+$topnav-bg: $dark-blue;
 $topnav-brand-height: 40px;
 
 /*-----More information tiles-----*/
-$info-card-header-bg: $dark;
+$info-card-header-bg: $dark-blue;
 
 /*-----Section navigation tiles-----*/
 $nav-card-bg: $light;
 $nav-card-header-bg: $light-x;
-$nav-card-header-color: $dark;
+$nav-card-header-color: $white;
 $nav-card-badge-color: $body-color;
 $nav-card-badge-bg: $white;
 
 /*-----Footer-----*/
-$footer-bg: $dark;
+$footer-bg: $dark-blue;
 $footer-color: $white;
 $footer-link-color: $white;
 $footer-copyright-bg: #00000033;
 
 /*-----Events & news-----*/
-$news-border-color: $dark;
+$news-border-color: $dark-blue
+;
