@@ -28,4 +28,4 @@ This project was funded as part of the UKRI Innovation Scholars: Data Science Tr
 
 <br>
 <br>
-<a href="https://elixir-europe.org/about-us/how-funded/eu-projects/converge"><img src="https://raw.githubusercontent.com/elixir-europe/rdmkit/master/assets/img/converge_logo.svg" width="15%"></a>
+<img src="https://raw.githubusercontent.com/elixir-europe/rdmkit/master/assets/img/UKRI_logo.svg" width="15%">
