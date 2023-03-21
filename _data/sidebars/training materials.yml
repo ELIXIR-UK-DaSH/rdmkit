@@ -28,5 +28,11 @@ subitems:
       - title: Name of course (with links to Carpentries/GTN)
         url: /course_name_4
       - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_5  
+        url: /course_name_5
+  - title: Recommended resources
+    description: course materials open to the entire research community on basic and specialised aspects of RDM
+    url: /recommended-resources
+    image_url: /assets/img/icons/course-materials-icon.svg
+    subitems:
+      - title: 
      

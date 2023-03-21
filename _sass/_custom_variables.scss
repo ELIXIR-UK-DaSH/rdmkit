@@ -3,8 +3,8 @@
 $font-family-theme: "Lato", sans-serif;
 
 /*-----Top navigation-----*/
-$topnav-bg: $dark-blue;
-$topnav-brand-height: 40px;
+$topnav-bg: $light;
+$topnav-brand-height: 60px;
 
 /*-----More information tiles-----*/
 $info-card-header-bg: $dark-blue;
@@ -12,9 +12,10 @@ $info-card-header-bg: $dark-blue;
 /*-----Section navigation tiles-----*/
 $nav-card-bg: $light;
 $nav-card-header-bg: $light-x;
-$nav-card-header-color: $white;
-$nav-card-badge-color: $body-color;
-$nav-card-badge-bg: $white;
+$nav-card-header-color: $light;
+$nav-card-badge-color: $light;
+$nav-card-badge-bg: $light
+;
 
 /*-----Footer-----*/
 $footer-bg: $dark-blue;
