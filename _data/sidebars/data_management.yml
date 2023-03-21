@@ -2,9 +2,9 @@ title: Data management
 title_url: /index
 subitems:
   - title: RDMbites
-    description: please think about something
+    description: short informative videos (3-5 minutes) to describe basic and specialised aspects of RDM
     url: /rdmbites
-    image_url: /assets/img/section-icons/address-card-light.svg
+    image_url: /assets/img/icons/rdmbites-icon.svg
     subitems:
       - title: Name of collection (X number of videos embedded)
         url: /collection_name_1
@@ -14,13 +14,13 @@ subitems:
         url: /collection_name_3
       - title: Name of collection (X number of videos embedded)
         url: /collection_name_4    
-  - title: Courses
-    description: please think about something
-    url: /courses
+  - title: Course materials
+    description: course materials open to the entire research community on basic and specialised aspects of RDM
+    url: /course-materials
     image_url: /assets/img/section-icons/dna-light.svg
     subitems:
-      - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_1
+      - title: cBioPortal workshop
+        url: /cbioportal
       - title: Name of course (with links to Carpentries/GTN)
         url: /course_name_2
       - title: Name of course (with links to Carpentries/GTN)
@@ -28,14 +28,5 @@ subitems:
       - title: Name of course (with links to Carpentries/GTN)
         url: /course_name_4
       - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_5
-  - title: Events
-    description: please think about something
-    url: /events
-    image_url: /assets/img/section-icons/dna-light.svg
-    subitems:
-      - title: TBD
-        url: /event_1
-      - title: TBD
-        url: /event_2      
+        url: /course_name_5  
      

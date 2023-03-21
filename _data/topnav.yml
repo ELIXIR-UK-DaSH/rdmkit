@@ -4,3 +4,7 @@ subitems:
     url: /index
   - title: About
     url: /about
+  - title: RDMbites
+    url: /rdmbites
+  - title: Course materials
+    url: /course-materials
