@@ -1,7 +1,7 @@
-title: RDMkit
+title: ELIXIR-UK Fellowship
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-description: "Best practices and guidelines you can use for FAIR management of your research data."
+description: "A Fellowship of UK ambassadors to build capacity in RDM for the life sciences"
 # Metadata description of the website
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.21.0
