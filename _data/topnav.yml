@@ -1,10 +1,7 @@
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
 subitems:
-  - title: data management
+  - title: Training materials
     url: /index
   - title: About
     url: /about
-  - title: RDMbites
-    url: /rdmbites
-  - title: Course materials
-    url: /course-materials
+

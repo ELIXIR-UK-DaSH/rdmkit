@@ -1,4 +1,4 @@
-title: data management
+title: Training materials
 title_url: /index
 subitems:
   - title: RDMbites
@@ -6,8 +6,8 @@ subitems:
     url: /rdmbites
     image_url: /assets/img/icons/rdmbites-icon.svg
     subitems:
-      - title: Name of collection (X number of videos embedded)
-        url: /collection_name_1
+      - title: Sequencing data
+        url: /seq-data-collection
       - title: Name of collection (X number of videos embedded)
         url: /collection_name_2
       - title: Name of collection (X number of videos embedded)

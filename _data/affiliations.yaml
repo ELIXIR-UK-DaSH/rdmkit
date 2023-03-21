@@ -17,7 +17,13 @@
   type: institution
   url: 
 - name: Earlham Institute
-  image_url: /images/institutions/earlham-institute.svg
+  image_url: /images/institutions/logo-earlham-institute.svg
+  pid: 
+  expose: true
+  type: institution
+  url: 
+- name: University of Oxford
+  image_url: /images/institutions/logo-university-of-oxford.svg
   pid: 
   expose: true
   type: institution
