@@ -1,6 +1,6 @@
 [![Jekyll site CI](https://github.com/elixir-europe/rdmkit/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/elixir-europe/rdmkit/actions?query=workflow%3A%22Jekyll+site+CI%22) [![theme badge](https://img.shields.io/badge/ELIXIR%20toolkit%20theme-jekyll-blue?color=0d6efd)](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
 
-<img src="/assets/img/main-logo.png" alt="ELXIR-UK Fellowship logo" width="450"/>
+<img src="/assets/img/main-logo.png" alt="ELXIR-UK Fellowship logo" width="200"/>
 
 
 # ELIXIR-UK Fellowship
