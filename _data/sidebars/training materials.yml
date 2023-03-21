@@ -17,7 +17,7 @@ subitems:
   - title: Course materials
     description: course materials open to the entire research community on basic and specialised aspects of RDM
     url: /course-materials
-    image_url: /assets/img/section-icons/dna-light.svg
+    image_url: /assets/img/icons/course-materials-icon.svg
     subitems:
       - title: cBioPortal workshop
         url: /cbioportal
