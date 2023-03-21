@@ -1,5 +1,5 @@
 {
-    "name": "RDMkit",
+    "name": "ELIXIR-UK Fellowship",
     "short_name": "",
     "icons": [
         {
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#c23669",
-    "background_color": "#c23669",
+    "theme_color": "#023452",
+    "background_color": "#023452",
     "display": "standalone"
 }
