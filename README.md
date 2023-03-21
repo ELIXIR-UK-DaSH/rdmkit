@@ -28,4 +28,4 @@ This project was funded as part of the UKRI Innovation Scholars: Data Science Tr
 
 <br>
 <br>
-<img src="/assets/img/UKRI-logo.png" width="15%">
+<img src="/assets/img/ukri-logo.png" width="15%">
