@@ -2,6 +2,8 @@
 subitems:
   - title: home
     url: /index
+  - title: Training materials
+    url: /pages
   - title: About
     url: /about
 
