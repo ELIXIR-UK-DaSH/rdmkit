@@ -28,7 +28,7 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
-      sidebar: training_materials
+      sidebar:
       search_exclude: false
   -
     scope:
@@ -40,7 +40,7 @@ defaults:
       no_robots: true
   -
     scope:
-      path: "pages/rdmbites/TEMPLATE_collection.md"
+      path: "pages/training_materials/rdmbites/TEMPLATE_collection.md"
       type: "pages"
     values:
       sitemap: false
@@ -48,7 +48,7 @@ defaults:
       no_robots: true
   -
     scope:
-      path: "pages/course-materials/TEMPLATE_course.md"
+      path: "pages/training_materials/course-materials/TEMPLATE_course.md"
       type: "pages"
     values:
       sitemap: false
