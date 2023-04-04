@@ -66,7 +66,7 @@ defaults:
       path: "pages/about"
     values:
       sidebar: about
-   -
+  -
     scope:
       path: "pages/training_materials"
     values:
