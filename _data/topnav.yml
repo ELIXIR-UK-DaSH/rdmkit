@@ -3,7 +3,7 @@ subitems:
   - title: home
     url: /index
   - title: Training materials
-    url: /training_material
+    url: /training_materials
   - title: About
     url: /about
 
