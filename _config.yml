@@ -39,7 +39,7 @@ defaults:
       no_robots: true
   -
     scope:
-      path: "pages/training_materials/rdmbites/TEMPLATE_collection.md"
+      path: "pages/rdmbites/TEMPLATE_collection.md"
       type: "pages"
     values:
       sidebar: training_materials
@@ -48,7 +48,7 @@ defaults:
       no_robots: true
   -
     scope:
-      path: "pages/training_materials/course-materials/TEMPLATE_course.md"
+      path: "pages/course-materials/TEMPLATE_course.md"
       type: "pages"
     values:
       sitemap: false
