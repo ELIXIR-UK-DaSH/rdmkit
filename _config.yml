@@ -42,7 +42,6 @@ defaults:
       path: "pages/rdmbites/TEMPLATE_collection.md"
       type: "pages"
     values:
-      sidebar: training_materials
       sitemap: false
       search_exclude: true
       no_robots: true
@@ -52,7 +51,7 @@ defaults:
       type: "pages"
     values:
       sitemap: false
-      sidebar: training_materials
+      sidebar: 
       search_exclude: true
       no_robots: true
   -
@@ -67,6 +66,12 @@ defaults:
       path: "pages/about"
     values:
       sidebar: about
+   -
+    scope:
+      path: "pages/training_materials"
+    values:
+      sidebar: training_materials
+      
 
 plugins:
   - jemoji
