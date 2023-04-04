@@ -28,7 +28,6 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
-      sidebar:
       search_exclude: false
   -
     scope:
@@ -43,6 +42,7 @@ defaults:
       path: "pages/training_materials/rdmbites/TEMPLATE_collection.md"
       type: "pages"
     values:
+      sidebar: training_materials
       sitemap: false
       search_exclude: true
       no_robots: true
@@ -52,6 +52,7 @@ defaults:
       type: "pages"
     values:
       sitemap: false
+      sidebar: training_materials
       search_exclude: true
       no_robots: true
   -
