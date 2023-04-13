@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: Fellows
 custom-editme: _data/CONTRIBUTORS.yaml
 ---
 

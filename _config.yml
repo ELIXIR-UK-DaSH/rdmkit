@@ -28,7 +28,6 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
-      sidebar: training_materials
       search_exclude: false
   -
     scope:
@@ -52,6 +51,7 @@ defaults:
       type: "pages"
     values:
       sitemap: false
+      sidebar: 
       search_exclude: true
       no_robots: true
   -
@@ -66,6 +66,12 @@ defaults:
       path: "pages/about"
     values:
       sidebar: about
+  -
+    scope:
+      path: "pages/training_materials"
+    values:
+      sidebar: training_materials
+      
 
 plugins:
   - jemoji
