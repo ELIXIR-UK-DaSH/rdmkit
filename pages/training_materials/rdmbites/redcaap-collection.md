@@ -44,3 +44,34 @@ toc: false
 
 {% include youtube.html id="-jhdBO-l9_o" %}
 
+## RDMbites  | REDCap: how to build a report
+
+{% include youtube.html id="G8wLfvbDPDU" %}
+
+## RDMbites  | REDCap: how to export your data/subsets of data
+
+{% include youtube.html id="Um7z58mtho4" %}
+
+## RDMbites  | REDCap: how to backup your project
+
+{% include youtube.html id="gHj4bOxl9wQ" %}
+
+## RDMbites  | REDCap: how to find information for a project audit
+
+{% include youtube.html id="-iOIBVZAp5c" %}
+
+## RDMbites  | REDCap: how to export your project files
+
+{% include youtube.html id="-YhBnEig6Ss" %}
+
+## RDMbites  | REDCap: how to archive your project
+
+{% include youtube.html id="vB9HolE2kqg" %}
+
+## RDMbites  | REDCap: how to request an API token
+
+{% include youtube.html id="PeoqEmEQshM" %}
+
+## RDMbites  | REDCap: how to use the randomization module
+
+{% include youtube.html id="TlRqkcRKDKU" %}
