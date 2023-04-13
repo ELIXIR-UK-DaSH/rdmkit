@@ -1,5 +1,5 @@
 ---
-title: Coordination team
+title: Fellows
 ---
 
 ## Meet the coordination team
