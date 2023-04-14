@@ -8,12 +8,18 @@ subitems:
     subitems:
       - title: Sequencing data
         url: /seq-data-collection
-      - title: Name of collection (X number of videos embedded)
-        url: /collection_name_2
-      - title: Name of collection (X number of videos embedded)
-        url: /collection_name_3
-      - title: Name of collection (X number of videos embedded)
-        url: /collection_name_4    
+      - title: Data Management Essentials Collection
+        url: /data-management-essentials-collection
+      - title: Data Protection Collection
+        url: /data-protection-collection
+      - title: Data Sharing Collection
+        url: /data-sharing-collection
+      - title: Data Storage Collection
+        url: /data-storage-collection
+      - title: REDCap collection
+        url: /redcaap-collection
+      - title: Sensitive data collection
+        url: /sensitive-data-collection
   - title: Course materials
     description: course materials open to the entire research community on basic and specialised aspects of RDM
     url: /course-materials
