@@ -1,5 +1,5 @@
 ---
-title: Data Management Essentials Collection
+title: Data management essentials collection
 contributors: [ Sara Morsy, Branka Franicievic, Robert Andrews ]
 description: 
 page_id: data-management-essentials-collection
