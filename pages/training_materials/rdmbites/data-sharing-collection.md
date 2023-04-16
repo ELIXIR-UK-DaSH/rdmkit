@@ -1,6 +1,6 @@
 ---
 title: Data sharing collection
-contributors: [ Ema Karoune, Elvina Gountona ] 
+contributors: [ Ema Karoune, Elvina Gountouna ] 
 description: 
 page_id: data-sharing-collection
 toc: true
