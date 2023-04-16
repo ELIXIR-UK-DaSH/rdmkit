@@ -17,7 +17,7 @@ subitems:
       - title: Data Storage Collection
         url: /data-storage-collection
       - title: REDCap collection
-        url: /redcaap-collection
+        url: /redcap-collection
       - title: Sensitive data collection
         url: /sensitive-data-collection
   - title: Course materials
@@ -27,18 +27,15 @@ subitems:
     subitems:
       - title: cBioPortal workshop
         url: /cbioportal
-      - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_2
-      - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_3
-      - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_4
-      - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_5
+      - title: Bioimage metadata workshop
+        url: /bioimage-metadata-course
+      - title: FAIR pointers course
+        url: /fair-pointers-course
+      - title: FAIRification of an RNAseq dataset course
+        url: /FAIRification-RNAseq-course
   - title: Recommended resources
     description: course materials open to the entire research community on basic and specialised aspects of RDM
     url: /recommended-resources
     image_url: /assets/img/icons/course-materials-icon.svg
-    subitems:
-      - title: 
+
      
