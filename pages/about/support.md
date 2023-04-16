@@ -1,6 +1,7 @@
 ---
 title: Support
 custom-editme: _data/affiliations.yaml
+toc: false
 ---
 
 ## Organisations
