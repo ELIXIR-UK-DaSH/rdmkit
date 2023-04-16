@@ -3,7 +3,7 @@ title: Sequencing data collection
 contributors: [Andrew Mason]
 description: 
 page_id: seq-data-collection
-toc: false
+toc: true
 ---
 
 
