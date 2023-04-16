@@ -2,7 +2,7 @@
 title: REDCap collection
 contributors: [Saskia Lawson-Tovey]
 description: 
-page_id: redcaap-collection
+page_id: redcap-collection
 toc: true
 ---
 
