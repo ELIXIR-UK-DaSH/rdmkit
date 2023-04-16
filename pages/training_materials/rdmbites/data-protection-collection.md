@@ -3,7 +3,7 @@ title: Data Protection Collection
 contributors: [ Emma Karoune, Elvina Gountona ]
 description: 
 page_id: data-protection-collection
-toc: false
+toc: true
 ---
 
 
