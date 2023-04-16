@@ -1,5 +1,5 @@
 ---
-title: Data Protection Collection
+title: Data protection collection
 contributors: [ Emma Karoune, Elvina Gountouna ]
 description: 
 page_id: data-protection-collection
