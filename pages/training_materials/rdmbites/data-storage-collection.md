@@ -1,9 +1,9 @@
 ---
-title: Data Storage Collection
+title: Data storage collection
 contributors: [ Emma Karoune, Elvina Gountona ]
 description: 
 page_id: data-storage-collection
-toc: false
+toc: true
 ---
 
 
