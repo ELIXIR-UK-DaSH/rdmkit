@@ -1,6 +1,6 @@
 ---
 title: Data Protection Collection
-contributors: [ Emma Karoune, Elvina Gountona ]
+contributors: [ Emma Karoune, Elvina Gountouna ]
 description: 
 page_id: data-protection-collection
 toc: true
