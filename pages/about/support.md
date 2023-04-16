@@ -3,28 +3,22 @@ title: Support
 custom-editme: _data/affiliations.yaml
 ---
 
-## Institutions
+## Organisations
 
-We thank these institutions for their contribution.
+The University of Bradford leads the Fellowship with a delivery team at the Earlham Institute, Cardiff University, the University of Manchester, and the University of Oxford.
+We have also partnered with the Software Sustainability Institute, bringing their experience of running a 10-year successful Fellowship.
 
-{% include affiliation-tiles-selection.html type="institution"%}
+{% include affiliation-tiles-selection.html type="organisation"%}
 
-## Projects
+## Projects and funders
 
-We thank these projects for their efforts:
+This Fellowship was funded through the ELIXIR-UK DaSH project as part of the UKRI Innovation Scholars: Data Science Training in Health and Bioscience call (DaSH). (MR/V038966/1)
 
 {% include affiliation-tiles-selection.html type="project"%}
-
-## Funders
-
-RDMkit is developed in ELIXIR-CONVERGE that received funding from the European Union's Horizon 2020 Research and Innovation programme under grant agreement No 871075. 
-
-Additionally we thank the funders that supported some of our contributors.
 
 {% include affiliation-tiles-selection.html type="funder"%}
 
 ## Infrastructures
 
-We thank these infrastructures for their efforts:
-
+The Fellowship lies at the core of the ELIXIR-UK strategy to embed best practices indata management and data stewardship into UK research-performing organisations.
 {% include affiliation-tiles-selection.html type="infrastructure"%}
