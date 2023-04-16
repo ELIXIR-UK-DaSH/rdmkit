@@ -3,7 +3,7 @@ title: Data Management Essentials Collection
 contributors: [ Sara Morsy, Branka Franicievic, Robert Andrews ]
 description: 
 page_id: data-management-essentials-collection
-toc: false
+toc: true
 ---
 
 
