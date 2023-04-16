@@ -6,35 +6,37 @@ subitems:
     url: /rdmbites
     image_url: /assets/img/icons/rdmbites-icon.svg
     subitems:
+      - title: Bioimage
+        url: /bioimage-collection
+      - title: Data management essentials
+        url: /data-management-essentials-collection
+      - title: Data protection 
+        url: /data-protection-collection
+      - title: Data sharing
+        url: /data-sharing-collection
+      - title: Data storage
+        url: /data-storage-collection
+      - title: REDCap
+        url: /redcap-collection
       - title: Sequencing data
         url: /seq-data-collection
-      - title: Data Management Essentials Collection
-        url: /data-management-essentials-collection
-      - title: Data Protection Collection
-        url: /data-protection-collection
-      - title: Data Sharing Collection
-        url: /data-sharing-collection
-      - title: Data Storage Collection
-        url: /data-storage-collection
-      - title: REDCap collection
-        url: /redcap-collection
-      - title: Sensitive data collection
+      - title: Sensitive data
         url: /sensitive-data-collection
   - title: Course materials
     description: course materials open to the entire research community on basic and specialised aspects of RDM
     url: /course-materials
     image_url: /assets/img/icons/course-materials-icon.svg
     subitems:
-      - title: cBioPortal workshop
-        url: /cbioportal
-      - title: Bioimage metadata workshop
+      - title: Bioimage metadata
         url: /bioimage-metadata-course
-      - title: FAIR pointers course
+      - title: Introduction to cBioPortal
+        url: /cbioportal
+      - title: FAIR pointers
         url: /fair-pointers-course
-      - title: FAIRification of an RNAseq dataset course
-        url: /FAIRification-RNAseq-course
+      - title: FAIRification of an RNAseq dataset
+        url: /fairification-rnaseq-course
   - title: Recommended resources
-    description: course materials open to the entire research community on basic and specialised aspects of RDM
+    description: curated list of recommended materials on RDM
     url: /recommended-resources
     image_url: /assets/img/icons/course-materials-icon.svg
 
