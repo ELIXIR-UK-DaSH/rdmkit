@@ -1,6 +1,6 @@
 ---
 title: Data storage collection
-contributors: [ Emma Karoune, Elvina Gountona ]
+contributors: [ Emma Karoune, Elvina Gountouna ]
 description: 
 page_id: data-storage-collection
 toc: true
