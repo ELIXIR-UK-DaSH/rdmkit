@@ -1,5 +1,5 @@
 ---
-title: Traingin Materials
+title: Training materials
 ---
 
 
