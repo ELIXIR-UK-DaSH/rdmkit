@@ -23,6 +23,14 @@ exclude:
 defaults:
   -
     scope:
+      path: ""
+      type: "pages"
+    values:
+      permalink: /:basename
+      layout: "page"
+      search_exclude: false
+  -
+    scope:
       path: "pages/events/TEMPLATE_event.md"
       type: "pages"
     values:
