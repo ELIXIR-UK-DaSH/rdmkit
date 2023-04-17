@@ -4,7 +4,7 @@ contributors: [Laura Cooper]
 description: 
 page_id: bioimage-metadata-course
 related_pages:
-  rdmbites: [bioimage collection]
+  rdmbites: [bioimage-collection]
 toc: false
 ---
 
