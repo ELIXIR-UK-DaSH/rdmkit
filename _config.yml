@@ -71,6 +71,21 @@ defaults:
       path: "pages/training_materials"
     values:
       sidebar: training_materials
+  -
+    scope:
+      path: "pages/training_materials/course_materials"
+    values:
+      type: course_materials
+  -
+    scope:
+      path: "pages/training_materials/rdmbites"
+    values:
+      type: rdmbites
+  -
+    scope:
+      path: "pages/training_materials/recommended_resources"
+    values:
+     type: recommended_resources
       
 
 plugins:

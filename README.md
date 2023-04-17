@@ -8,7 +8,7 @@ The ELIXIR-UK Fellowship aims to embed Research Data Management (RDM) know-how i
 
 
 ## Contribute
-If you want to contribute to our training materails, we encourage you to apply to become an ELIXIR-UK Fellow when the next application round opens.
+If you want to contribute to our training materials, we encourage you to apply to become an ELIXIR-UK Fellow when the next application round opens.
 https://elixiruknode.org/activities/elixir-dash-fellowship/become-a-fellow/
 
 
