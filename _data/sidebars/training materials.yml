@@ -2,43 +2,40 @@ title: Training materials
 title_url: /training_materials
 subitems:
   - title: RDMbites
-    description: short informative videos (3-5 minutes) to describe basic and specialised aspects of RDM
+    description: short informative videos (3_5 minutes) to describe basic and specialised aspects of RDM
     url: /rdmbites
-    image_url: /assets/img/icons/rdmbites-icon.svg
+    image_url: /assets/img/icons/rdmbites_icon.svg
     subitems:
-      - title: Sequencing data
-        url: /seq-data-collection
-      - title: Data Management Essentials Collection
-        url: /data-management-essentials-collection
-      - title: Data Protection Collection
-        url: /data-protection-collection
-      - title: Data Sharing Collection
-        url: /data-sharing-collection
-      - title: Data Storage Collection
-        url: /data-storage-collection
+      - title: Bioimage
+        url: /bioimage_collection
+      - title: Data management essentials collection
+        url: /data_management_essentials_collection
+      - title: Data protection collection
+        url: /data_protection_collection
+      - title: Data sharing collection
+        url: /data_sharing_collection
+      - title: Data storage collection
+        url: /data_storage_collection
       - title: REDCap collection
-        url: /redcaap-collection
+        url: /redcap_collection
       - title: Sensitive data collection
-        url: /sensitive-data-collection
+        url: /seq_data_collection
+      - title: Sequencing data collection
+        url: /sensitive_data_collection
   - title: Course materials
     description: course materials open to the entire research community on basic and specialised aspects of RDM
-    url: /course-materials
-    image_url: /assets/img/icons/course-materials-icon.svg
+    url: /course_materials
+    image_url: /assets/img/icons/course_materials_icon.svg
     subitems:
-      - title: cBioPortal workshop
+      - title: Bioimage metadata course
+        url: /bioimage_metadata_course
+      - title: Introdcution to cBioPortal
         url: /cbioportal
-      - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_2
-      - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_3
-      - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_4
-      - title: Name of course (with links to Carpentries/GTN)
-        url: /course_name_5
+      - title: FAIR pointers course
+        url: /fair_pointers_course
+      - title: FAIRification of an RNAseq dataset
+        url: /fairification_rnaseq_course
   - title: Recommended resources
-    description: course materials open to the entire research community on basic and specialised aspects of RDM
-    url: /recommended-resources
-    image_url: /assets/img/icons/course-materials-icon.svg
-    subitems:
-      - title: 
-     
+    description: curated list of recommended materials on RDM
+    url: /recommended_resources
+    image_url: /assets/img/icons/course_materials_icon.svg

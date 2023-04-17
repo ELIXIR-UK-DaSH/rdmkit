@@ -2,48 +2,32 @@
 title: About
 ---
 
-## Who is the RDMkit for?
-The ELIXIR Research Data Management Kit (RDMkit) has been designed to guide life scientists in their efforts to better manage their research data following the FAIR Principles. It is based on the various steps of the data lifecycle, although not all the steps will be relevant to everyone.
+## About the Fellowship
+The ELIXIR-UK Fellowship aims to embed Research Data Management (RDM) know-how into UK universities and institutes.
+Fellows create training materials, contribute to ELIXIR resources and deliver training locally. We look to support Fellows’ activities and efforts to build a community of practice within their host institutions.
 
-The contents are generated and maintained by the ELIXIR community coming together as part of the [ELIXIR-CONVERGE](https://elixir-europe.org/about-us/how-funded/eu-projects/converge) project.
 
-<div class="card border-1 mt-4">
-  <div class="card-body">
-    <p class="card-text">RDMkit is recommended in the <a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf">Horizon Europe Program Guide</a> as the "resource for Data Management guidelines and good practices for the Life Sciences."</p>
-  </div>
-</div>
+## The 6 main goals
 
-## Why are the FAIR principles needed?
-At the heart of FAIR Science lies good data management practice. This is increasingly important as life science research becomes data-intensive and traditional ‘wet labs’ make space for ‘dry (computer) labs’.
+### 1. Creating bites of content
+Fellows produce around 5-10 short videos (3-5 minutes each) on aspects of RDM within their fields of expertise.  These videos focus on relaying basic concepts or signposting larger pieces of work for a research audience.
 
-With that in mind, the [FAIR Principles](https://www.nature.com/articles/sdata201618) were designed to improve the infrastructure supporting the reuse of research data. The intention of these principles is to improve the **F**indability, **A**ccessibility, **I**nteroperability and **R**euse of digital assets.
+### 2. Developing training courses
+Developing content for face-to-face and online courses.  Working solo or in collaboration with other Fellows,  trainers and ELIXIR members.
 
-The increasing volume, complexity and speed of data creation made scientists rely on computational support exponentially. Therefore, the FAIR Principles place specific emphasis on enhancing the ability of machines to automatically find and use data, as well as supporting its reuse by other scientists, which facilitates knowledge discovery and improves research transparency.
+### 3. Delivering training locally.
+Organising training within their institutions or communities using material developed in the Fellowship or within ELIXIR.
 
-## What does the RDMkit aim to achieve?
-More than ever, scientists need relevant tools and guidance to better manage their data and hence contribute to making FAIR Science a reality as well as help researchers be more productive for themselves and their collaborators.
+### 4. Seeding local communities of practice
+Delivering training courses locally and disseminating training materials helps get interested parties together. The activities of the Fellowship aim to help build the grassroots of a local community of practice.
 
-- **For researchers** - RDMkit is a one stop shop of information, advice and signposting to research data management know-how, tools, examples and best practice. Struggling with writing your project data management plan? Then RDMkit can help.
+### 5. Enhancing training skills and competencies
+Fellows benefit from ELIXIR training courses, including Train-the-Trainer, and develop coaching relationships with other Fellows and trainers.
 
-- **For data managers in laboratories, facilities or universities** - RDMkit is a resource for your researchers, a complement to your own resources and a guide to the specific challenges of RDM for life science researchers. 
-
-- **For funding agencies and policy makers** - RDMkit is the resource researchers can turn to at the proposal stage of the research, throughout their projects and when publishing their results.  Remember that the cost of not having FAIR research data has been estimated at €10.2bn annually in Europe. By using RDMkit and better managing  data, the outcomes of your investments will be contributing to strengthening regional, national and European economies.
+### 6. Contributing to international projects
+Fellows contribute to RDM best practice and know-how in international resources: FAIR Cookbook, RDMkit
 
 ## Funding acknowledgement
-RDMkit was developed with funding from the European Union’s Horizon 2020 Research and Innovation programme under grant agreement No 871075, as part of the ELIXIR-CONVERGE project. We are grateful to all who contributed their time to producing contents for RDMkit. 
-
-## How to cite the RDMkit
-
-
-<div class="card border-1 my-4">
-  <div class="card-body">
-    <p class="card-text"><i>ELIXIR (2021) Research Data Management Kit. A deliverable from the EU-funded ELIXIR-CONVERGE project (grant agreement 871075). URL: <a href="https://rdmkit.elixir-europe.org">https://rdmkit.elixir-europe.org)</a></i></p>
-  </div>
-</div>
-
-The ELIXIR Research Data Management Kit makes all of their materials publicly available under [Open Source Initiative](https://opensource.org/licenses) licenses.
-The process documents and data are made available under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
-Software are made available under an [MIT license](https://opensource.org/licenses/mit-license.html).
-For full details on licensing, please visit our [License document](https://github.com/elixir-europe/rdmkit/blob/master/LICENSE).
+This Fellowship was funded through the ELIXIR-UK DaSH project as part of the UKRI Innovation Scholars: Data Science Training in Health and Bioscience call (DaSH). (MR/V038966/1)
 
 
