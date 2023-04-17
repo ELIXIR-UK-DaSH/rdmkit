@@ -28,7 +28,7 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
-      search_exclude: true
+      search_exclude: false
   -
     scope:
       path: "pages/events/TEMPLATE_event.md"
@@ -39,7 +39,7 @@ defaults:
       no_robots: true
   -
     scope:
-      path: "pages/training_materials/rdmbites/TEMPLATE_collection.md"
+      path: "pages/rdmbites/TEMPLATE_collection.md"
       type: "pages"
     values:
       sitemap: false
@@ -47,16 +47,7 @@ defaults:
       no_robots: true
   -
     scope:
-      path: "pages/training_materials/course_materials/TEMPLATE_course.md"
-      type: "pages"
-    values:
-      sitemap: false
-      sidebar: 
-      search_exclude: true
-      no_robots: true
-  -
-    scope:
-      path: "pages/training_materials/recommended_resources/TEMPLATE_course.md"
+      path: "pages/course-materials/TEMPLATE_course.md"
       type: "pages"
     values:
       sitemap: false
