@@ -2,7 +2,7 @@
 title: Sensitive data collection
 contributors: [Emma Karoune]
 description: 
-page_id: sensitive-data-collection
+page_id: sensitive_data_collection
 toc: true
 ---
 

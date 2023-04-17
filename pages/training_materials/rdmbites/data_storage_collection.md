@@ -2,7 +2,7 @@
 title: Data storage collection
 contributors: [ Emma Karoune, Elvina Gountouna ]
 description: 
-page_id: data-storage-collection
+page_id: data_storage_collection
 toc: true
 ---
 

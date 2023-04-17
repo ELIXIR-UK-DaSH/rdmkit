@@ -2,7 +2,7 @@
 title: Sequencing data collection
 contributors: [Andrew Mason]
 description: 
-page_id: seq-data-collection
+page_id: seq_data_collection
 toc: true
 ---
 
