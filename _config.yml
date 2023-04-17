@@ -29,7 +29,7 @@ defaults:
       permalink: /:basename
       layout: "page"
       sidebar: training_materials
-      search_exclude: false
+      search_exclude: true
   -
     scope:
       path: "pages/events/TEMPLATE_event.md"
