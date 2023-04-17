@@ -19,9 +19,9 @@ subitems:
       - title: REDCap collection
         url: /redcap_collection
       - title: Sensitive data collection
-        url: /seq_data_collection
-      - title: Sequencing data collection
         url: /sensitive_data_collection
+      - title: Sequencing data collection
+        url: /seq_data_collection
   - title: Course materials
     description: course materials open to the entire research community on basic and specialised aspects of RDM
     url: /course_materials
