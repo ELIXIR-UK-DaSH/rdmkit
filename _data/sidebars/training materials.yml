@@ -37,7 +37,7 @@ subitems:
         url: /fairification-rnaseq-course
   - title: Recommended resources
     description: curated list of recommended materials on RDM
-    url: /recommended-resources
-    image_url: /assets/img/icons/course-materials-icon.svg
+    #url: /recommended-resources
+    #image_url: /assets/img/icons/course-materials-icon.svg
 
      
