@@ -28,6 +28,7 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
+      sidebar: training_materials
       search_exclude: false
   -
     scope:
