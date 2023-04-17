@@ -84,7 +84,7 @@ defaults:
       sidebar: course_materials
   -
     scope:
-      path: "training_materials/recommended_resources"
+      path: "pages/training_materials/recommended_resources"
     values:
       sidebar: recommended_resources
       
