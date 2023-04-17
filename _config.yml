@@ -28,7 +28,6 @@ defaults:
     values:
       permalink: /:basename
       layout: "page"
-      sidebar: index
       search_exclude: true
   -
     scope:
