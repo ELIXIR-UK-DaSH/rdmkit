@@ -23,14 +23,6 @@ exclude:
 defaults:
   -
     scope:
-      path: ""
-      type: "pages"
-    values:
-      permalink: /:basename
-      layout: "page"
-      search_exclude: false
-  -
-    scope:
       path: "pages/events/TEMPLATE_event.md"
       type: "pages"
     values:
@@ -39,7 +31,7 @@ defaults:
       no_robots: true
   -
     scope:
-      path: "pages/rdmbites/TEMPLATE_collection.md"
+      path: "pages/training_materials/rdmbites/TEMPLATE_collection.md"
       type: "pages"
     values:
       sitemap: false
@@ -47,7 +39,16 @@ defaults:
       no_robots: true
   -
     scope:
-      path: "pages/course-materials/TEMPLATE_course.md"
+      path: "pages/training_materials/course_materials/TEMPLATE_course.md"
+      type: "pages"
+    values:
+      sitemap: false
+      sidebar: 
+      search_exclude: true
+      no_robots: true
+  -
+    scope:
+      path: "pages/training_materials/recommended_resources/TEMPLATE_course.md"
       type: "pages"
     values:
       sitemap: false
@@ -71,6 +72,21 @@ defaults:
       path: "pages/training_materials"
     values:
       sidebar: training_materials
+  -
+    scope:
+      path: "pages/training_materials/rdmbites"
+    values:
+      sidebar: rdmbites
+  -
+    scope:
+      path: "pages/training_materials/course_materials"
+    values:
+      sidebar: course_materials
+  -
+    scope:
+      path: "training_materials/recommended_resources"
+    values:
+      sidebar: recommended_resources
       
 
 plugins:
