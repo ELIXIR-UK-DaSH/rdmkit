@@ -87,11 +87,6 @@ defaults:
       path: "pages/training_materials/recommended_resources"
     values:
      type: recommended_resources
-  -
-    scope:
-      path: "pages"
-    values:
-      sidebar: training_materials
 
 plugins:
   - jemoji
