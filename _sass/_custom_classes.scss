@@ -125,23 +125,23 @@ section#search-section {
 }
 
 .navigation-tiles .card button:hover {
-    background-color: $orange !important;
+    background-color: $light-blue !important;
     color: $light !important;
 }
 
 .navigation-tiles .card .card-header a {
     color: $blue !important;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .navigation-tiles .card .card-header {
     background-color: $light-blue;
+    text-decoration: none !important;
 }
 
-small, .small {
-    line-height: normal;
-
-  }
+.stretched-link a {
+    text-decoration: none !important;
+}
 /*== banner styles landing page ===*/
 
 
