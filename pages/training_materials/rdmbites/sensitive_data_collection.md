@@ -4,6 +4,10 @@ contributors: [Emma Karoune]
 description: A collection of RDMbites dedicated to overcoming data management barriers with sensitive data
 page_id: sensitive_data_collection
 toc: true
+training:
+  - name: collection in the ELIXIR training portal
+    registry: TeSS
+    url: https://tess.elixir-europe.org/collections/rdmbites-sensitive-data-collection
 ---
 
 

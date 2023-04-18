@@ -4,6 +4,10 @@ contributors: [Andrew Mason]
 description: A sepcialised collection of RDMbites focused on managing sequencing data, diving deep into FASTQ format and RNA seq data, among others
 page_id: seq_data_collection
 toc: true
+training:
+  - name: collection in the ELIXIR training portal
+    registry: TeSS
+    url: https://tess.elixir-europe.org/collections/rdmbites-sequencing-data
 ---
 
 
