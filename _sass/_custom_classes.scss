@@ -114,6 +114,10 @@ section#search-section {
     }
 }
 
+.navbar-nav .nav-item > a.active {
+    background-color: $blue;
+    color: #fff;
+}
 
 /*== banner styles landing page ===*/
 
@@ -346,9 +350,6 @@ h2 {
 
 /*----- Buttons -----*/
 .home-button {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
     margin: 10px auto;
     background-color: $orange;
     color: #fff;
@@ -376,3 +377,4 @@ h2 {
 .undefined a{
     text-decoration: none;
 }
+
