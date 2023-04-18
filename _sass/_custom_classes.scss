@@ -406,3 +406,19 @@ h2 {
     color: $blue;
 }
 
+
+/*----- Buttons -----*/
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+  }
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 60%;
+  }
