@@ -6,7 +6,7 @@ subitems:
     url: /rdmbites
     image_url: /assets/img/icons/rdmbites_icon.svg
     subitems:
-      - title: Bioimage
+      - title: Bioimage collection
         url: /bioimage_collection
       - title: Data management essentials collection
         url: /data_management_essentials_collection
