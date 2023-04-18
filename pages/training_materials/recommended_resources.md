@@ -5,7 +5,7 @@ toc: true
 ---
 
 ## Training
-FAIR in (biological) practice – Ed-DaSH
+### FAIR in (biological) practice – Ed-DaSH
 The course has material on FAIR principles as well as RDM best practice. The great thing about this material is that it can be taught face-to-face as part of The Carpentries or be delivered online/on-demand.
 You do not need to have prior knowledge of data management to benefit from this course, but familiarity with spreadsheets (such as Excel) and a bio background will be helpful.
 This is aimed at researchers who are working in the life sciences, and those who wish to have a better understanding of Open Science and FAIR practices.
