@@ -81,7 +81,7 @@ defaults:
     scope:
       path: "pages/training_materials/rdmbites"
     values:
-      type: rdmbites
+      type: RDMbites
   -
     scope:
       path: "pages/training_materials/recommended_resources"
