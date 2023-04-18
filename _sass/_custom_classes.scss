@@ -116,7 +116,7 @@ section#search-section {
 
 .navbar-nav .nav-item > a.active {
     background-color: $blue;
-    color: #fff;
+    color: #fff !important;
 }
 
 /*== banner styles landing page ===*/
