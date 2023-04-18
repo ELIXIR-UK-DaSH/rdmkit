@@ -129,7 +129,19 @@ section#search-section {
     color: $light !important;
 }
 
+.navigation-tiles .card .card-header a {
+    color: $blue !important;
+    text-decoration: none;
+}
 
+.navigation-tiles .card .card-header {
+    background-color: $light-blue;
+}
+
+small, .small {
+    line-height: normal;
+
+  }
 /*== banner styles landing page ===*/
 
 
