@@ -119,6 +119,17 @@ section#search-section {
     color: #fff !important;
 }
 
+.navigation-tiles .card button {
+    background-color: $blue;
+    color: $light;
+}
+
+.navigation-tiles .card button:hover {
+    background-color: $orange;
+    color: $light;
+}
+
+
 /*== banner styles landing page ===*/
 
 
