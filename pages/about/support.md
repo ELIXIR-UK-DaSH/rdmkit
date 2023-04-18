@@ -1,5 +1,5 @@
 ---
-title: Support
+title: Support and funding
 custom-editme: _data/affiliations.yaml
 toc: false
 ---
