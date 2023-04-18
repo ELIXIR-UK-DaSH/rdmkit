@@ -22,7 +22,7 @@ Recommended in the Horizon Europe Program Guide as the “resource for Data Mana
 Recommended in the IMI/IHI Project Guidelines and the Horizon Europe Work Programme for Health as the resource for FAIR Data Management guidelines and good practices for the Life Sciences, FAIR Cookbook contains great guidance as well as fantastic examples of data management across all disciplines.
 This resource is recommended for any researchers who need to consider data management, as well as data stewards.
 
-## GoFAIR – FAIR Principles
+### GoFAIR – FAIR Principles
 For those wanting to learn about FAIR principles with real data examples, the GoFAIR content is a great starting point. This content takes each letter of FAIR and breaks down those into their individual principles (for example, F has four sub-categories) with explanations of what they mean, why they are important and then real life examples to help connect that learning to actual data work.
 This is a fantastic resource for anyone working in the life sciences, especially those who wish to link their learning with examples.
 
