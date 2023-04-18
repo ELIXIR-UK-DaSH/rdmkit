@@ -409,7 +409,7 @@ h2 {
 
 /*----- Youtube containers -----*/
 .embed-container {
-    display: flex;
+    position: absolute;
     padding-bottom: 20px;
     overflow: hidden;
   }
