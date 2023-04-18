@@ -120,13 +120,13 @@ section#search-section {
 }
 
 .navigation-tiles .card button {
-    background-color: $blue;
-    color: $light;
+    background-color: $blue !important;
+    color: $light !important;
 }
 
 .navigation-tiles .card button:hover {
-    background-color: $orange;
-    color: $light;
+    background-color: $orange !important;
+    color: $light !important;
 }
 
 
