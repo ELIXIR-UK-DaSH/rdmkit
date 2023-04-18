@@ -407,10 +407,10 @@ h2 {
 }
 
 
-/*----- Buttons -----*/
+/*----- Youtube containers -----*/
 .embed-container {
     position: relative;
-    padding-bottom: 56.25%;
+    padding-bottom: 50px;
     height: 0;
     overflow: hidden;
   }
@@ -421,5 +421,5 @@ h2 {
     position: absolute;
     top: 0;
     left: 0;
-    max-width: 60%;
+    max-width: 70%;
   }
