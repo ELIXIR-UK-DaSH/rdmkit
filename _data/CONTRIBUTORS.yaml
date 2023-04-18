@@ -35,9 +35,9 @@ Alexia Cardona:
     role: Mentor
     image_url: https://elixiruknode.org/wp-content/uploads/2022/04/alexia-cardona-profile-picture
 Allyson Lister:
-    git:
+    git: allysonlister
     role: Mentor
-    image_url: https://eng.ox.ac.uk/media/1968/allyson-lister.jpg?anchor=center&mode=crop&width=250&height=250&rnd=132442269950000000
+    image_url:
 Andrew Mason:
     git: 
     role: Fellow
@@ -106,6 +106,10 @@ Lijing Lin:
     git: 
     role: Fellow
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/ebc6c665-52a1-4ccd-9673-10f321632dde/LijingLin-160x160.jpg
+Martin Wolstencroft:
+    git: 
+    role: Mentor
+    image_url: 
 Manuel Lera Ramirez:
     git: 
     role: Fellow
