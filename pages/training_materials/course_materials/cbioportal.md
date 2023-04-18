@@ -1,7 +1,7 @@
 ---
 title: Introdcution to cBioPortal
 contributors: [Andrew Mason]
-description: 
+description: a workshop-style course on cBioPortal – an tool for exploring large-scale cancer genomic datasets
 page_id: cbioportal
 toc: false
 ---

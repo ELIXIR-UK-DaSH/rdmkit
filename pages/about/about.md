@@ -6,7 +6,6 @@ title: About
 The ELIXIR-UK Fellowship aims to embed Research Data Management (RDM) know-how into UK universities and institutes.
 Fellows create training materials, contribute to ELIXIR resources and deliver training locally. We look to support Fellows’ activities and efforts to build a community of practice within their host institutions.
 
-
 ## The 6 main goals
 
 ### 1. Creating bites of content
