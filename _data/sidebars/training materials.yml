@@ -10,12 +10,6 @@ subitems:
         url: /bioimage_collection
       - title: Data management essentials collection
         url: /data_management_essentials_collection
-      - title: Data protection collection
-        url: /data_protection_collection
-      - title: Data sharing collection
-        url: /data_sharing_collection
-      - title: Data storage collection
-        url: /data_storage_collection
       - title: REDCap collection
         url: /redcap_collection
       - title: Sensitive data collection

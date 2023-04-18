@@ -2,6 +2,4 @@
 title: Fellows
 ---
 
-## Our fellows
-
-{% include contributor-tiles-all.html custom="Adam Partridge, Alexia Cardona, Allyson Lister, Andrew Mason, Annabel Cansdale, Catherine Knox, Ciara Loughrey, Diane Hatziioanou, Edward Parkinson, Elvina Gountouna, Emily Angiolini, Emily Delva, Emma Karoune, Gabriela Lopez-Gonzalez, Korneel Hens, Krister Jazz Urog, Laura Cooper, Lijing Lin, "%}
+{% include contributor-tiles-all.html custom="Diane Hatziioanou, Katarzyna Kamieniecka, Nilam Khan, Edward Parkinson, Phillip Crout, Elvina Gountouna, Richard Ostler, Gabriela Lopez-Gonzalez, Emma Karoune, Manuel Lera Ramirez, Sandra Ng, Toryn Poolman, Saskia Lawson-Tovey, Lijing Lin, Vasileios Panagiotis Lenis, Krister Jazz Urog, Sonal Henson, Korneel Hens, Adam Partridge, Rob Ewing, Laura Cooper, Andrew Mason, Annabel Cansdale, Ciara Loughrey"%}
