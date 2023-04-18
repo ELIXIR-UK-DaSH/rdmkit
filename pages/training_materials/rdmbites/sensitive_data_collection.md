@@ -1,6 +1,6 @@
 ---
 title: Sensitive data collection
-contributors: [Emma Karoune]
+contributors: [Emma Karoune, Elvina Gountouna]
 description: A collection of RDMbites dedicated to overcoming data management barriers with sensitive data
 page_id: sensitive_data_collection
 toc: true
