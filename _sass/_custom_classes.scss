@@ -346,22 +346,27 @@ h2 {
 
 /*----- Buttons -----*/
 .button {
-    display:flex;
-    justify-content: space-between;
-    align-items: left;
     margin: 10px auto;
     background-color: $orange;
     color: #fff;
     border:none;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     text-decoration: none;
-    padding: 5px;
+    padding: 10px;
     
 }
 
 .button:hover {
     background-color: $blue;
     transition: 0.7s;
+}
+
+.button a{
+    text-decoration: none;
+}
+
+.stretched-link a{
+    text-decoration: none;
 }
 
 .undefined a{
