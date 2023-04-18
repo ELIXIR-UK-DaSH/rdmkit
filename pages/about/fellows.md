@@ -4,4 +4,4 @@ title: Fellows
 
 ## Our fellows
 
-{% include contributor-tiles-all.html custom="Fellow" %}
+{% include contributor-tiles-all.html custom.role="Fellow" %}
