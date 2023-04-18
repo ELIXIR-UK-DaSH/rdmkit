@@ -71,6 +71,7 @@ defaults:
       path: "pages/training_materials"
     values:
       sidebar: training_materials
+      type: training_materials
   -
     scope:
       path: "pages/training_materials/course_materials"
