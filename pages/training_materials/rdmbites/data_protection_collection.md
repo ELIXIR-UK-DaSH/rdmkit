@@ -8,10 +8,10 @@ toc: true
 
 
 
-## RDMbites | Sensitive data: an introduction
+## Sensitive data: an introduction
 
 {% include youtube.html id="2PXFu33IGVU" %}
 
-## RDMbites | Computer data security
+## Computer data security
 
 {% include youtube.html id="z4AGWDnukqs" %}

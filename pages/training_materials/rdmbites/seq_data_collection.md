@@ -1,34 +1,33 @@
 ---
 title: Sequencing data collection
 contributors: [Andrew Mason]
-description: 
+description: A sepcialised collection of RDMbites focused on managing sequencing data, diving deep into FASTQ format and RNA seq data, among others
 page_id: seq_data_collection
 toc: true
 ---
 
 
 
-## RDMbites | FASTQ format
-
+## FASTQ format
 
 {% include youtube.html id="tO2H3zuBouw" %}
 
-## RDMbites | FASTQ files in colorspace
+## FASTQ files in colorspace
 
 {% include youtube.html id="-jLf0-0Ukv8" %}
 
-## RDMbites | RNAseq expression data
+## RNAseq expression data
 
 {% include youtube.html id="3Pe9xcGF_Wo" %}
 
-## RDMbites | Sequencing Data QC: causes and consequences
+## Sequencing Data QC: causes and consequences
 
 {% include youtube.html id="0nFwZC6VZyQ" %}
 
-## RDMbites | Sequencing Data QC: FastQC metrics
+## Sequencing Data QC: FastQC metrics
 
 {% include youtube.html id="wXKxVhOSVa0" %}
 
-## RDMbites | Sequencing data QC: trimming
+## Sequencing data QC: trimming
 
 {% include youtube.html id="megMSTmQN7g" %}
