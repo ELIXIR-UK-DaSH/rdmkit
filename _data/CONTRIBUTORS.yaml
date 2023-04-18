@@ -33,7 +33,7 @@ Adam Partridge:
 Alexia Cardona:
     git:
     role: Mentor
-    image_url: https://elixiruknode.org/wp-content/uploads/2022/04/alexia-cardona-profile-picture-e1650477544255-160x160.png
+    image_url: https://elixiruknode.org/wp-content/uploads/2022/04/alexia-cardona-profile-picture
 Allyson Lister:
     git:
     role: Mentor
@@ -48,7 +48,7 @@ Annabel Cansdale:
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/32b2d00b-15f8-4d53-af26-c98fcfb5218d/annabel-cansdale_profile-picture-e1652256326309-160x160.jpeg
 Carole Goble:
     git: CaroleGoble
-    role: Joint Project team
+    role: Project team
     image_url:
 Catherine Knox:
     git: 
@@ -106,7 +106,7 @@ Lijing Lin:
     git: 
     role: Fellow
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/ebc6c665-52a1-4ccd-9673-10f321632dde/LijingLin-160x160.jpg
-Manuel Lera RamÃ­rez:
+Manuel Lera Ramirez:
     git: 
     role: Fellow
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/06735fcf-59f6-4e1a-b12b-c262401b403e/LeraRamirez_profile.jpeg
@@ -120,7 +120,7 @@ Neil Hall:
     image_url: https://www.earlham.ac.uk/sites/default/files/styles/image_1c_desktop_1x/public/2022-07/neil-hall-web-profile.jpg?itok=UkCZ__Jl
 Nick Juty:
     git: 
-    role: Project team
+    role: Mentor
     image_url:
 Nilam Khan:
     git:
@@ -158,10 +158,10 @@ Sonal Henson:
     git: 
     role: Fellow
     image_url: https://t20526645.p.clickup-attachments.com/t20526645/42104659-0e67-442e-b2c7-db75089fa7b5/Profile%20photo-2.jpg
-Susanna Asunta Sansone:
-    git: 
+Susanna-Asunta Sansone:
+    git: SusannaSansone 
     role: Project team
-    image_url: https://eng.ox.ac.uk/media/9396/sas-2021-sq.jpg?anchor=center&mode=crop&width=250&height=250&rnd=132774027650000000
+    image_url: 
 Tim Beck:
     git: 
     role: Mentor
