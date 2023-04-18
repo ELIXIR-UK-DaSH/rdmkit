@@ -28,5 +28,6 @@ Fellows contribute to RDM best practice and know-how in international resources:
 
 ## Funding acknowledgement
 This Fellowship was funded through the ELIXIR-UK DaSH project as part of the UKRI Innovation Scholars: Data Science Training in Health and Bioscience call (DaSH). (MR/V038966/1)
+{% include affiliation-tiles-selection.html type="funder"%}
 
 
