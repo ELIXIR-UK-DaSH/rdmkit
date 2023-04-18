@@ -22,4 +22,5 @@ This Fellowship was funded through the ELIXIR-UK DaSH project as part of the UKR
 ## Infrastructures
 
 The Fellowship lies at the core of the ELIXIR-UK strategy to embed best practices indata management and data stewardship into UK research-performing organisations.
+
 {% include affiliation-tiles-selection.html type="infrastructure"%}
