@@ -346,22 +346,26 @@ h2 {
 
 /*----- Buttons -----*/
 .button {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     margin: 10px auto;
     background-color: $orange;
     color: #fff;
     border:none;
+    border-radius: 10px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     text-decoration: none;
     padding: 10px;
     
 }
 
-.button:hover {
+.home-button:hover {
     background-color: $blue;
     transition: 0.7s;
 }
 
-.button a{
+.home a{
     text-decoration: none;
 }
 
