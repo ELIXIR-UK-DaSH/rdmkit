@@ -409,17 +409,17 @@ h2 {
 
 /*----- Youtube containers -----*/
 .embed-container {
-    position: absolute;
-    padding-bottom: 20px;
-    overflow: hidden;
+    position: relative;
+    width: 60%;
+    padding-bottom: 30%; 
+    height: 0;
   }
-
- .embed-container iframe,
- .embed-container object,
- .embed-container embed {
-    display: flex;
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
     position: absolute;
     top: 0;
     left: 0;
-    max-width: 70%;
+    width: 100%;
+    height: 100%;
   }
